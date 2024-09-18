@@ -40,4 +40,4 @@ sudo docker run tata
 ```
 
 # Owner 
-https://t.me/rv2006rv
+https://t.me/AJ_TVSERIAL 
