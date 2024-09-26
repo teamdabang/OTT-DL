@@ -20,9 +20,9 @@ class TG_CONFIG:
 
     session = "rv_web_dl_bot"
 
-    bot_creater = "Rv"  # Don't Remove if you Respect the DEV
+    bot_creater = "AJ_TVSERIAL"  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = "@rv2006rv"  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@AJ_TVSERIAL"  # Don't Remove if you Respect the DEV
 
 
 class UPLOAD_CONGIF:
