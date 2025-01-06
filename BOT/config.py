@@ -9,16 +9,16 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = "26910777"
 
-    api_hash = ""
+    api_hash = "8601f2f24993f6fdbcbac3bb27ceec38"
 
-    bot_token = ""
+    bot_token = "7600596195:AAHDddWPPK5OzQFXbisolzoxo24YbCthdhk"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [5232142502, 6991688781]
 
-    session = "rv_web_dl_bot"
+    session = "1BVtsOKEBu5oEgfB2oT4irQrOUG101RAVWmMomsZqa9P9qSwvKORwfkeSosR4i9R1r7Uhb7Esutzjf_345UgMMj8eCcaD26q7OOsKhOG0HA-YDaZLVNIW14zx5X68tujJ7IFLLzZ2LXmrt4nB6dVXTMprSujFfcwOZJEhdrtXXE61YkAbmMRj0-Z4ccDjLRz6WPZn3oVswnOyDSqzM07KzAhfEfXMrNO9BSeZrj8I-G0NLFCRbq2R2QoD9NK55iES1oHvOXKyBbfqmbjMR0DgoEl_86xZgaUFFucSyKIwLO3Ci1xE4wT8jNXhS1CSyvN23QcLL_59t62bOlIqdpFNATALm9zP3Ic="
 
     bot_creater = "AJ_TVSERIAL"  # Don't Remove if you Respect the DEV
 
