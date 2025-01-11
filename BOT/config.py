@@ -107,7 +107,7 @@ A TG WEB-DL Bot</b>
 
 > <code>{}</code>
 
-<b>Made by @conan7612</b>
+<b>Made by @AJ_TVSERIAL</b>
 """
 
 SIMPLE_CAPTION = '''<code>{}</code>'''
