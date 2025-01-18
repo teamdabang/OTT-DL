@@ -103,7 +103,15 @@ DL_DONE_MSG = """
 
 START_MSG = """
 <b>Hello <code>@{}</code>,
-A TG WEB-DL Bot</b>
+ I am one and only DRM Downloader Bot on Telegram.
+
+I can help you to download content from OTT Platforms
+
+You can use me to Download DRM protected links to Telegram & Google Drive
+
+Here I support a vast number of otts from where you can download Drm or non-drm videos easily..
+
+If You Found Any Issue Contact Support</b>
 
 > <code>{}</code>
 
