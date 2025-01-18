@@ -105,7 +105,7 @@ START_MSG = """
 <b>Hello <code>@{}</code>,
  I am one and only DRM Downloader Bot on Telegram.
 
-I can help you to download content from OTT Platforms
+</blockquote>I can help you to download content from OTT Platforms</blockquote>
 
 You can use me to Download DRM protected links to Telegram & Google Drive
 
