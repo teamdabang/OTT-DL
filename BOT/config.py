@@ -111,7 +111,8 @@ You can use me to Download DRM protected links to Telegram & Google Drive
 
 Here I support a vast number of otts from where you can download Drm or non-drm videos easily..
 
-If You Found Any Issue Contact Support</b>
+If You Found Any Issue Contact Support<a href='https://t.me/Dangal_bhai'>⏤͟͟͞͞ 🇮🇳 𝐀𝐧𝐢𝐤𝐞𝐭 𝐂𝐨𝐝𝐞𝐫 ᯤ̸</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+</b>
 
 > <code>{}</code>
 
